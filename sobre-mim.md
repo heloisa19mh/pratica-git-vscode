@@ -4,3 +4,6 @@ Olá! Eu sou a Maria Heloísa e estudo Análise e Desenvolvimento de Sistemas
 -Python
 -PHP
 -Java
+
+## Meu objetivo no curso
+Muito dinheiro e felicidade
